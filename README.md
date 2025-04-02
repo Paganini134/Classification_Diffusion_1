@@ -70,7 +70,7 @@ This repository contains an **academic project** (August 2024 – Present) under
 Below are the main performance graphs. Make sure you update the image filenames or paths accordingly:
 
 ### Accuracy
-![Accuracy Graph](images/ACCURACY_2.png)
+![Accuracy Graph](images/ACCCURACY_2.png)
 
 ### Negative Log-Likelihood (NLL)
 ![NLL Graph](images/NLL_2.png)
