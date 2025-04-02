@@ -70,13 +70,13 @@ This repository contains an **academic project** (August 2024 – Present) under
 Below are the main performance graphs. Make sure you update the image filenames or paths accordingly:
 
 ### Accuracy
-![Accuracy Graph](images/accuracy.png)
+![Accuracy Graph](images/ACCURACY_2.png)
 
 ### Negative Log-Likelihood (NLL)
-![NLL Graph](images/nll.png)
+![NLL Graph](images/NLL_2.png)
 
 ### Mean Squared Error (MSE)
-![MSE Graph](images/mse.png)
+![MSE Graph](images/MSE_2.png)
 
 ---
 
@@ -86,12 +86,12 @@ We conducted extensive ablation studies to understand the impact of scheduling m
 
 Below are placeholders for your ablation graphs. Update filenames/paths as needed:
 
-![Ablation Graph 1](images/ablation1.png)
-![Ablation Graph 2](images/ablation2.png)
-![Ablation Graph 3](images/ablation3.png)
-![Ablation Graph 4](images/ablation4.png)
-![Ablation Graph 5](images/ablation5.png)
-![Ablation Graph 6](images/ablation6.png)
+![Ablation Graph 1](images/ACCURACY.png)
+![Ablation Graph 2](images/ACCURACY_1.png)
+![Ablation Graph 3](images/MSE.png)
+![Ablation Graph 4](images/MSE_1.png)
+![Ablation Graph 5](images/NLL.png)
+![Ablation Graph 6](images/NLL_1.png)
 
 ---
 
