@@ -4,21 +4,7 @@
 
 A research-driven project aimed at detecting chest tumors using high-resolution medical imaging datasets. This approach leverages **Diffusion Models** and has been shown to outperform conventional CNN-based architectures like ResNet-18, ResNet-50, and GoogleNet.
 
----
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Key Features](#key-features)
-3. [Methodology](#methodology)
-4. [Results](#results)
-5. [Performance Graphs](#performance-graphs)
-6. [Ablation Studies](#ablation-studies)
-7. [How to Use](#how-to-use)
-8. [Project Structure](#project-structure)
-9. [License](#license)
-10. [Contact](#contact)
-
----
 
 ## Introduction
 
@@ -99,7 +85,7 @@ Below are placeholders for your ablation graphs. Update filenames/paths as neede
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/chest-tumor-detection-diffusion.git
+   git clone https://github.com/Paganini134/chest-tumor-detection-diffusion.git
    cd chest-tumor-detection-diffusion
    cd classification
 2. Copy the training_script.sh file into the classification and rename it as run_cifar10.sh
